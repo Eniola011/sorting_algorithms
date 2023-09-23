@@ -2,7 +2,6 @@
 #define DECK_H
 
 #include <stdio.h>
-#include <cs50.h>
 #include <stdlib.h>
 
 typedef enum kind_e

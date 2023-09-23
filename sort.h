@@ -2,7 +2,6 @@
 #define SORT_H
 
 #include <stdlib.h>
-#include <cs50.h>
 
 
 /**
