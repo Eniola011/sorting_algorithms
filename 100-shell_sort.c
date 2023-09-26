@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * get_max_gap - gets biggest Knuth Sequence space for size
+ * biggest_space - gets biggest Knuth Sequence space for size
  * @size: size of array
  * Return: size of space
  */
