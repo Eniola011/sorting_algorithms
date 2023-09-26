@@ -30,6 +30,7 @@ void swap(int *array, size_t size, int *n, int *m);
 int lomuto_partition(int *array, size_t size, ssize_t low, ssize_t high);
 void QuickSort(int *array, size_t size, ssize_t lo, ssize_t hi);
 void quick_sort(int *array, size_t size);
+size_t biggest_space(size_t size);
 void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
 void counting_sort(int *array, size_t size);
